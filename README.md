@@ -13,3 +13,5 @@ Here we discuss some main tools of time-series analysis
     Autocorrelation autocorrelation analysis in order to detect memory effects
     Correlation vs. causation applicable to several time-series in order to detect similarities and "causes"
 
+# Lisence 
+GNU General Public License (GNU GPL or GPL).
